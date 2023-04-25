@@ -1,6 +1,8 @@
-# fist_app
-
-A new Flutter project.
+# Flutter App Travel
+how to run App!
+step 1: dowload project.
+step 2: terminal write "flutter put get"
+step 3: experience UX UI
 
 ## Getting Started
 
