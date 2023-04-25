@@ -4,7 +4,6 @@ step 1: dowload project.
 step 2: terminal write "flutter put get"
 step 3: experience UX UI
 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
